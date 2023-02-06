@@ -1,0 +1,2 @@
+# kpo-kollok
+abstractFactory
